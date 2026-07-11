@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1288-remove-covered-intervals) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
