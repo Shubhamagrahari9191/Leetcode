@@ -10,13 +10,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0016-3sum-closest) |
 | [1288-remove-covered-intervals](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0016-3sum-closest) |
 | [1288-remove-covered-intervals](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0006-zigzag-conversion) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
