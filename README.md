@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0072-edit-distance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0071-simplify-path) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
