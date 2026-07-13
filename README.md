@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0016-3sum-closest) |
+| [0151-reverse-words-in-a-string](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Simulation
 |  |
 | ------- |
