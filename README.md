@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0049-group-anagrams) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
