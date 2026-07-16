@@ -106,9 +106,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
