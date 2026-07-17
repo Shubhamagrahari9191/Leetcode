@@ -16,7 +16,7 @@
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         mirror(root.left);
-        return isidentical(root.right,root.left);
+        return isidentical(root.left,root.right);
     }
     boolean isidentical(TreeNode p,TreeNode q){
         if(p==null&&q==null)return true;
