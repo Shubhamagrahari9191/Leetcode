@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1260-shift-2d-grid](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0179-largest-number) |
 | [1288-remove-covered-intervals](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1331-rank-transform-of-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Stack
 |  |
 | ------- |
