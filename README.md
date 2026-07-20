@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -176,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
