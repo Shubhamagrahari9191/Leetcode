@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
