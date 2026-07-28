@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
