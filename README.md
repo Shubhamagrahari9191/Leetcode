@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0509-fibonacci-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0509-fibonacci-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0091-decode-ways) |
@@ -265,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
