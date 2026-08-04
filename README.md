@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0139-word-break) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0072-edit-distance) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1260-shift-2d-grid) |
