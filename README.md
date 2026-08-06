@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -338,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
