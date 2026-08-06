@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -320,8 +324,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
