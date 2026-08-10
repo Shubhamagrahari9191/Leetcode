@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0486-predict-the-winner) |
