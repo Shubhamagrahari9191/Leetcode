@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0179-largest-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
