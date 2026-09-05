@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
