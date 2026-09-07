@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0383-ransom-note) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0139-word-break) |
+| [0187-repeated-dna-sequences](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -434,4 +438,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
