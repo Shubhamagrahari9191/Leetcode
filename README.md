@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0494-target-sum) |
