@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -276,12 +278,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0143-reorder-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
