@@ -7,7 +7,7 @@ class Solution {
       else {
                 int min = Integer.MAX_VALUE;
                 for (int j = 1; j * j <= i; j++) {
-                    int count = dp[j * j] + dp[i - j * j];
+                    int count = 1 + dp[i - j * j];
                     min = Math.min(min, count);
                 }
             
@@ -20,7 +20,7 @@ class Solution {
 
     }
 
-    public boolean isPerfect(int n) {
+    public boolean isPerfect(int n) {      //squareroot check kre
         int sqrt = (int) (Math.sqrt(n));
         return (sqrt*sqrt == n);
     }
