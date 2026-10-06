@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0098-validate-binary-search-tree) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
