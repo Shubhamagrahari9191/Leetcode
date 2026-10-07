@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0079-word-search) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
