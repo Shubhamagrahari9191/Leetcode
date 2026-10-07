@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0200-number-of-islands) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0383-ransom-note) |
 | [2029-stone-game-ix](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -521,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0279-perfect-squares) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
