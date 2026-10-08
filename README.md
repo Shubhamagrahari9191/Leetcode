@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0043-multiply-strings) |
+| [0735-asteroid-collision](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/0735-asteroid-collision) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shubhamagrahari9191/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
